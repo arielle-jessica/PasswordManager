@@ -1,0 +1,5 @@
+Flask
+mysql-connector-python
+argon2-cffi
+duo-client
+cryptography
